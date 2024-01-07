@@ -20,6 +20,10 @@ I made use of the "for" and "For if" loops
 
 Links:
 
+Repolink: https://github.com/Crar96/Week-4-Console-Finances
+
+Deployed pages link: https://crar96.github.io/Week-4-Console-Finances/
+
 Screenshot:
 
 ![Challenge week 4 screenshot](https://github.com/Crar96/Week-4-Console-Finances/assets/136388946/2185b345-153d-408f-a7fc-31ecbd974da8)

@@ -137,6 +137,9 @@ var maxDecreaseMonth = { date: ''};
 for (var i = 1; i < finances.length; i++) {
   var change = finances[i][1] - finances[i - 1][1];
   if (change < maxDecrease.amount) {
-    maxDecrease.date = finances[i][0]
+    maxDecrease.date = finances[i][0];
+    maxDecrease.amount = change;
   }
 }
+
+console.log('Greatest Decrease in Profits: ' , maxDecrease.date, maxDecrease.amount);
